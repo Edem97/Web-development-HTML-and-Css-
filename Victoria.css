@@ -1,0 +1,60 @@
+.myheader-format{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(209, 149, 19) !important ;
+    font-size: 42px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bolder;
+    font-stretch: condensed;
+}
+
+.myheader2-format{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:60px;
+    text-align: center;
+}
+
+.my-button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 20%;
+    border-radius: 30px;
+    border-color: rgb(209, 149, 19);
+    color: rgb(50, 205, 97);
+    background-color: rgb(5, 7, 7);
+    transition: 500ms;
+    padding: 30px;
+    border-style: solid;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    color: rgb(163, 190, 12);
+    background: linear-gradient(35deg,#FFCCCC,#CCCCFF);
+    background: url("https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png");
+}
+
+.my-button:hover{
+    background-color: tomato;
+    width:40%;
+    font: size 2em;
+}
+
+.my-list{
+    display: inline-block;
+    font-size:7em ;
+    color:rgb(209, 149, 19);
+    margin-right: 90px;
+}
+
+.my-body{
+    color: olive;
+    background-color: orange;
+}
+
+.my2-list{
+    text-align: center;
+    text-decoration: aqua;
+}
